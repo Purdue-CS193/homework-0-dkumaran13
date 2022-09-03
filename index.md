@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Deepti Kumaran
+
+## Things I like about CS 193
+- The class topics seems cool
+- I like the peoples
+- Taught by students, so it seems helpful
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
